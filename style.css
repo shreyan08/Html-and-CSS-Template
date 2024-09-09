@@ -1,0 +1,416 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html, body {
+    overflow-x: hidden;
+}
+
+h1.header-text {
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.header-section h2.header-text {
+    text-transform: capitalize;
+    font-size: 32px;
+    margin-top: 10px;
+    font-weight: 600;
+}
+
+h1.hero-banner-heading {
+    max-width: 417px;
+    font-size: 51px;
+    text-transform: inherit;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+
+img.hero-banner-img {
+    height: 700px;
+}
+
+.hero-content {
+    margin-top: 10%;
+}
+
+p.image-text {
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+
+.card-one {
+    background-color: #000;
+}
+
+.card-two {
+    background-color: #00c4ff;
+}
+
+.card-three {
+    background-color: #00c4ff99;
+}
+
+.card-section .col-md-4 {
+    padding: 0;
+}
+
+p.feature-cards-para {
+    font-style: italic;
+    text-align: center;
+    line-height: 23px;
+    color: white;
+}
+
+h2.feature-cards-heading {
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 19px;
+    font-size: 30px;
+    color: white;
+}
+
+.feature-cards {
+    padding: 80px;
+}
+
+section.card.section {
+    margin-bottom: 80px;
+}
+
+section.about-company-section {
+    margin: 80px 0px;
+}
+
+.company-content {
+    text-align: center;
+}
+
+a.our-work-btn {
+    text-decoration: none;
+    color: black;
+    border: 2px solid gray;
+    text-transform: uppercase;
+    font-weight: 700;
+    width: 180px;
+    display: inline-block;
+    padding: 13px;
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+}
+
+h1.about-company-heading {
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+p.companydescription {
+    font-size: 16px;
+    max-width: 662px;
+    margin: auto;
+    margin-bottom: 40px;
+    color: gray;
+    text-transform: capitalize;
+    line-height: 23px;
+}
+
+.doing-right-section .col-md-6 {
+    padding: 0px;
+}
+
+a.learn-more-btn {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 16px;
+    display: inline-block;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    transition: all .3s ease-in-out;
+}
+
+p.hero-banner-sub-heading {
+    font-style: italic;
+    max-width: 490px;
+}
+
+span.freepik-text {
+    color: #00c4ff;
+}
+
+img.doing-right-img {
+    width: 100%;
+    height: 614px;
+}
+
+.doing-right-right-contnet {
+    background-color: #00c4ff94;
+    padding: 87px;
+}
+
+.doing-right-right-contnet h1 {
+    color: white;
+    text-transform: capitalize;
+    font-size: 35px;
+    max-width: 349px;
+    word-spacing: 5px;
+}
+
+.doing-right-section {
+    margin: 80px 0px;
+}
+
+p.doing-right-sub-heading {
+    color: white;
+    margin: 20px 0px 20px 0px;
+}
+
+p.doing-right-description {
+    color: white;
+}
+
+.learn-more-btn-doing {
+    text-decoration: none;
+    background-color: white;
+    color: #00c4ff94;
+    padding: 15px 25px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    display: inline-block;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+.our-services-top-headings {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.our-services-top-headings h1 {
+    text-transform: capitalize;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.our-services-top-headings p {
+    color: gray;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+p.our-services-icons {
+    background-color: #00c4ff94;
+    width: 90px;
+    height: 90px;
+    color: white;
+    border-radius: 50px;
+    line-height: 90px;
+    text-align: center;
+    font-size: 35px;
+    margin: auto;
+}
+
+h2.our-services-card-heading {
+    text-transform: capitalize;
+    font-size: 20px;
+    margin: 20px 0px;
+}
+
+a.-service-learn-more-btn {
+    text-decoration: none;
+    text-align: center;
+    border: 2px solid #00c4ff94;
+    margin: auto;
+    display: block;
+    width: 180px;
+    padding: 13px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    color: #000;
+    font-weight: 700;
+    font-size: 19px;
+    transition: all .3s ease-in-out;
+}
+
+p.our-services-card-description {
+    color: gray;
+    font-style: italic;
+    max-width: 300px;
+    display: inline-flex;
+}
+
+.row.our-services-row-secound {
+    margin-top: 80px;
+}
+
+.our-services-cards {
+    text-align: center;
+}
+
+section.communction-section {
+    margin-top: 80px;
+}
+
+.communction-section .col-md-6 {
+    padding: 0px;
+}
+
+section.communction-section img.communication-col-img {
+    width: 100%;
+    height: 568px;
+}
+
+.communication-right-content {
+    background-color: #5555550d;
+    padding: 87px;
+}
+
+.communication-right-content h1 {
+    text-transform: capitalize;
+    font-size: 37px;
+    max-width: 500px;
+    margin-bottom: 30px;
+}
+
+p.communication-content-sub-text {
+    color: black;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+a.comm-learn-more-btn {
+    background-color: #00c4ff94;
+    color: white;
+    text-transform: uppercase;
+    padding: 15px 40px;
+    border-radius: 50px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 30px;
+    transition: all .3s ease-in-out;
+}
+
+section.get-know-section {
+    background-color: #00c4ff94;
+    padding: 70px 0px;
+}
+
+h1.get-know-content-title {
+    color: white;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+p.get-know-content-sub-title {
+    color: white;
+    max-width: 800px;
+}
+
+.get-know-section a.red-more-btn {
+    text-decoration: none;
+    float: inline-end;
+    background-color: white;
+    padding: 15px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    color: #00c4ff94;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+h1.business-section-heading {
+    text-transform: capitalize;
+    text-align: center;
+}
+
+p.business-section-sub-heading {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+a.view-more-btn {
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    display: block;
+    margin: auto;
+    width: 150px;
+    padding: 15px;
+    text-align: center;
+    margin-bottom: 50px;
+    transition: all .3s ease-in-out;
+}
+
+h1.business-section-heading {
+    margin: 50px 0px 20px 0px;
+}
+
+.footer-section {
+    background-color: black;
+    padding: 60px;
+    color: white;
+}
+
+.footer-text {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+a.-service-learn-more-btn:hover {
+    background-color: #00c4ff94;
+    color: #fff;
+}
+
+a.learn-more-btn:hover {
+    background-color: #000000b3;
+}
+
+a.our-work-btn:hover {
+    background-color: #000;
+    color: white;
+}
+
+a.comm-learn-more-btn:hover {
+    background-color: #00c4ff59;
+    color: white;
+}
+
+p.our-services-icons {
+    transition: transform 0.5s ease-in-out;
+}
+
+p.our-services-icons:hover {
+    transform: rotate(360deg);
+}
+
+a.view-more-btn:hover {
+    background-color: #000000a6;
+}
+a.footer-bootom-text {
+    text-decoration: none;
+    color: #00c4ffdb;
+    text-transform: capitalize;
+}
+@media only screen and (max-width:768px){
+    .feature-cards {
+        padding: 50px;
+        margin-bottom: 20px;
+    }
+    section.card-section {
+        margin: 0px 20px;
+    }
+}
